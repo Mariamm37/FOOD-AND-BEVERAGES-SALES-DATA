@@ -19,7 +19,8 @@ Lilo Foods and Beverages wants to answer the following business questions:
 - Power BI (for data modeling and interactive dashboard creation).
 
 5. ## Dashboard Preview  
-[Dashboard Screenshot](insert_your_dashboard_image_link_here)
+[Dashboard Screenshot]([Food   Beverages PowerBi Dashboard](https://github.com/user-attachments/assets/70d8fc07-27ad-483f-bb5f-a348788c372f))
+
 
 6. ## Key Insights
 - **Total Revenue**: The business generated a total revenue of **$18 million** over the period.
@@ -53,5 +54,9 @@ Lilo Foods and Beverages wants to answer the following business questions:
 This project helps Lilo Foods and Beverages monitor their sales operations and identify growth opportunities through data. With these insights, they can make better strategic and tactical business decisions.
 
 9. ## Project Files  
-- [Excel File – Raw Dataset](insert_your_excel_file_link_here)  
-- [Power BI Dashboard – PBIX file](insert_your_pbix_file_link_here)    
+- [Excel File – Raw Dataset]([SalesData.xlsx](https://github.com/user-attachments/files/20466519/SalesData.xlsx)
+[Product.xlsx](https://github.com/user-attachments/files/20466517/Product.xlsx)
+)  
+- [Power BI Dashboard – PBIX file](![Food   Beverages PowerBi Dashboard](https://github.com/user-attachments/assets/d007cae4-242b-4f5b-a98a-e932c30ef661)
+
+ 
