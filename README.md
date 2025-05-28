@@ -54,8 +54,4 @@ This project helps Lilo Foods and Beverages monitor their sales operations and i
 
 9. ## PROJECT FILES  
 - [Excel File – Raw Dataset]([SalesData.xlsx](https://github.com/user-attachments/files/20466519/SalesData.xlsx)
-[Product.xlsx](https://github.com/user-attachments/files/20466517/Product.xlsx)
-)  
-- [Power BI Dashboard – PBIX file](![Food   Beverages PowerBi Dashboard](https://github.com/user-attachments/assets/d007cae4-242b-4f5b-a98a-e932c30ef661)
-
- 
+[Product.xlsx](https://github.com/user-attachments/files/20466517/Product.xlsx))  
